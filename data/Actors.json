@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"maidb","characterIndex":0,"characterName":"maidw","classId":1,"equips":[1,1,0,0,4],"faceIndex":0,"faceName":"maidf","traits":[],"initialLevel":1,"maxLevel":99,"name":"Serena","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"drakeb","characterIndex":0,"characterName":"drakew","classId":5,"equips":[6,0,2,3,4],"faceIndex":0,"faceName":"Drake","traits":[],"initialLevel":5,"maxLevel":99,"name":"Khepri","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"drakeb","characterIndex":0,"characterName":"drakew","classId":5,"equips":[6,0,2,3,4],"faceIndex":0,"faceName":"Drake","traits":[],"initialLevel":5,"maxLevel":99,"name":"Khepri","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":4,"maxLevel":99,"name":"Healer","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":7,"maxLevel":99,"name":"Fighter","nickname":"","note":"","profile":""}
 ]
